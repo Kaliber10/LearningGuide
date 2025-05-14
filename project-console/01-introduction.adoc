@@ -1,0 +1,12 @@
+= Introduction
+
+This should be your first challenge for learning a new programming language.
+The famous "Hello, World" program.
+In the classic program, the programmer will create a command line application that will print out "Hello, World" to the user.
+It is rather simplistic, but its about getting the user wet their feet with the program.
+This project will go a little further with instructing the user to have the program accept input and reply back accordingly.
+
+== Steps
+
+. Create your first file
+. Inside of that file, put the command to print to the console with the string "Hello, World!"
