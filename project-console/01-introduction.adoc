@@ -10,3 +10,14 @@ This project will go a little further with instructing the user to have the prog
 
 . Create your first file
 . Inside of that file, put the command to print to the console with the string "Hello, World!"
+. Create a variable that is a string and set it to your name
+. Put the command to print to the console with "Hi, " and have it use the variable in the string
+. Create a function that takes one input
+** The function will print to the console with "Hey, " and use the input parameter in the string
+. Call the function
+. Create a function that takes one input
+** The function will return a string with "Yo, " and use the input parameter in the string
+. Create a variable and have it capture the return of the function
+. Put the command to print to the console with the variable
+. Save input from the user of the program to a variable
+. Call the function to greet with that variable
